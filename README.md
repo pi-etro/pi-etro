@@ -23,6 +23,6 @@ I've recently graduated in Information Engineering and Computer Science at &nbsp
 
 <div align="right">
     <a href="https://gitlab.com/pi-etro"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/gregorio-pietro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="mailto:pietro.dcg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/gregorio-pietro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
