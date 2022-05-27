@@ -1,8 +1,8 @@
 ## Hi, I'm Pietro!
 
-I'm a **Software Engineer** from Brazil 🇧🇷. I currently work with monolith decomposition at <img height="13" src="https://raw.githubusercontent.com/pi-etro/pi-etro/master/img/quintoandar.svg"> **QuintoAndar**, a real estate rental and sale startup.
+I'm a **Software Engineer** from Brazil 🇧🇷. I currently work with monolith decomposition at &nbsp;<img height="19" src="https://raw.githubusercontent.com/pi-etro/pi-etro/master/img/quintoandar.svg"> **QuintoAndar**, a real estate rental and sale startup.
 
-I've recently graduated in Information Engineering and Computer Science at <img height="13" src="https://raw.githubusercontent.com/pi-etro/pi-etro/master/img/ufabc.svg"> Federal University of ABC (UFABC).
+I've recently graduated in Information Engineering and Computer Science at &nbsp;<img height="19" src="https://raw.githubusercontent.com/pi-etro/pi-etro/master/img/ufabc.svg"> Federal University of ABC (UFABC).
 
 <!--
 <div align="center">
