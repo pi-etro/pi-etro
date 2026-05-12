@@ -3,7 +3,6 @@
 #### A Software Engineer based in :brazil:
 
 Backend Developer at [QuintoAndar](https://www.quintoandar.com.br/)<br>
-Master’s degree student in Computer Science at [IME-USP](https://www.ime.usp.br/en/home/)<br> 
 
 <br>
 <p align="center">
